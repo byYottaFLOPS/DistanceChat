@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SpongeDistanceChat:jar2">
+    <output-path>$PROJECT_DIR$/../Sponge/mods</output-path>
+    <root id="archive" name="SpongeDistanceChat.jar">
+      <element id="module-output" name="SpongeDistanceChat" />
+    </root>
+  </artifact>
+</component>

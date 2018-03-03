@@ -1,0 +1,12 @@
+[
+    {
+        "modid": "distancechat",
+        "name": "DistanceChat",
+        "version": "1.0.0",
+        "description": "A plugin that obfuscates messages the further player are apart.",
+        "url": "https://spongepowered.org",
+        "authorList": [
+            "YottaFLOPS"
+        ],
+    }
+]
